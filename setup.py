@@ -4,7 +4,7 @@ setup(
     name='ameliapkg',
     version='0.1.1',    
     description='Python test for amelia',
-    url='https://github.com/<<rest of url>>',
+    url='https://github.com/AmeliaJoy/ameliapkg',
     author='Amelia Schroeder',
     author_email='amelia.schroeder@gmail',
     packages=['ameliapkg'],
