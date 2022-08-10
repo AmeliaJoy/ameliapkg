@@ -1,0 +1,7 @@
+setup.py
+ameliapkg/__init__.py
+ameliapkg.egg-info/PKG-INFO
+ameliapkg.egg-info/SOURCES.txt
+ameliapkg.egg-info/dependency_links.txt
+ameliapkg.egg-info/requires.txt
+ameliapkg.egg-info/top_level.txt

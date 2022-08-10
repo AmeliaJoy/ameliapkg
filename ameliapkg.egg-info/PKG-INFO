@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: ameliapkg
+Version: 0.1.1
+Summary: Python test for amelia
+Home-page: https://github.com/AmeliaJoy/ameliapkg
+Author: Amelia Schroeder
+Author-email: amelia.schroeder@gmail
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
